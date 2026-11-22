@@ -1,0 +1,2 @@
+配合XperiaDFPS模块的刷新率切换指令，在触发刷新率切换时进行通知。
+In conjunction with the refresh rate switching command for the Xperia DFPS module, send a notification when a refresh rate switch is triggered.
